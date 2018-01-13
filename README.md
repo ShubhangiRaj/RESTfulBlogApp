@@ -1,7 +1,7 @@
 ### A Node.js blog app with CRUD operations and the seven RESTful routes.
 
 ### What is REST? 
-An architecture/pattern for defining our routes. It is a way of mapping between HTTP routes and CRUD functionalities.
+An architecture/pattern for defining our routes. It is a way of mapping between HTTP routes and the CRUD functionalities.
 
 ### There are 7 restful routes:
 
