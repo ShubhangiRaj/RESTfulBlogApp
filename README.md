@@ -1,10 +1,9 @@
-# RESTfulBlogApp
-A Node.js blog app with CRUD operations and the seven RESTful routes.
+### A Node.js blog app with CRUD operations and the seven RESTful routes.
 
-## What is REST? 
-### An architecture/pattern for defining our routes. It is a way of mapping between HTTP routes and CRUD functionalities.
+### What is REST? 
+An architecture/pattern for defining our routes. It is a way of mapping between HTTP routes and CRUD functionalities.
 
-## There are 7 restful routes:
+### There are 7 restful routes:
 
 | Route name  	| URL 				| HTTP Verb   | Description								|
 | ------------- | ----------------- |-------------| --------------------------------------- | 
